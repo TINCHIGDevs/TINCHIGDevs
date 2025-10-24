@@ -18,6 +18,6 @@ My Tech Stack
 
 🌱  What I'm Currently Learning:-- I'm diving deeper into React and TypeScript and into AI. * I'm building a Study Life application for students and a website for my church.
 
-🎯 My Goal: I'm actively seeking a Summer 2026 internship in Software Engineering, Web Development, AI & Machine Learning and EdTech where I can apply my skills, learn from a team, and make a real contribution.
+🎯 My Goal: I'm actively seeking a Summer 2026 internship in Software Engineering, Web Development, AI, Machine Learning and EdTech where I can apply my skills, learn from a team, and make a real contribution.
 
 📫 Let's Connect: [Link to LinkedIn] | [Link to your Portfolio (if you have one)] | tinashe.chigwida1@ucalgary.ca
