@@ -1,4 +1,4 @@
-# TIN_CHIG_Devs
+# TINCHIGDevs
 👋 Hi, I'm Tinashe 
 
 I'm a first year Computer Science student at the University of Calgary.
